@@ -15,9 +15,9 @@ array.first
 end
 
 def using_last(array)
-
+learn.last
 end
 
 def using_size(array)
-
+learn.size
 end
